@@ -163,3 +163,6 @@ Perubahan dari repository akan langsung terlihat.
 - Menggunakann HTTPS
 - Menggunakan Terraform
 
+## APLIKASI DAPAT DIAKSES PADA LINK BERIKUT 
+[ganesha](https://43.218.233.201)
+
